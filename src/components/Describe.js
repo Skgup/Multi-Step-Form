@@ -14,31 +14,31 @@ function Describe() {
                 <div className=' ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/student.jpg")] bg-contain bg-no-repeat' >
                
                 </div>
-                <h2 className='font-light text-[18px]'>Student <span className='text-gray-400'  >or soon to be enrolled</span></h2>
+                <h2 className='font-light text-[16px] md:text-[text18px]''>Student <span className='text-gray-400'  >or soon to be enrolled</span></h2>
             </div>
             <div className='flex justify-start items-center rounded-lg h-[70px]  w-[21rem] md:w-[40rem] border border-gray-400'>
                 <div className='ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/professional.jpg")] bg-contain bg-no-repeat'></div>
-                <h2 className='font-light text-[18px]'>Professional <span className='text-gray-400'  >pursuing acareer</span></h2>
+                <h2 className='font-light text-[16px] md:text-[text18px]'>Professional <span className='text-gray-400'  >pursuing acareer</span></h2>
                
             </div>
             <div className='flex justify-start items-center rounded-lg h-[70px] w-[21rem] md:w-[40rem] border border-gray-400'>
                 <div className='ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/parents.jpg")] bg-contain bg-no-repeat'></div>
-                <h2 className='font-light text-[18px]'>Parent <span className='text-gray-400'  >of a school-age child</span></h2>
+                <h2 className='font-light text-[16px] md:text-[text18px]'>Parent <span className='text-gray-400'  >of a school-age child</span></h2>
             </div>
             <div className='flex justify-start items-center rounded-lg h-[70px] w-[21rem] md:w-[40rem] border border-gray-400'>
                 <div className='ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/lifelong.jpg")] bg-contain bg-no-repeat' ></div>
                 <h2 
-               className='font-light text-[18px]'>Lifelong learner</h2>
+               className='font-light text-[16px] md:text-[text18px]'>Lifelong learner</h2>
             </div>
             <div className='flex justify-start items-center rounded-lg h-[70px] w-[21rem] md:w-[40rem] border border-gray-400'>
                 <div className='ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/teacher.jpg")] bg-contain bg-no-repeat' ></div>
                 <h2
-              className='font-light text-[18px]'>Teacher</h2>
+              className='font-light text-[16px] md:text-[text18px]'>Teacher</h2>
             </div>
             <div className='flex justify-start items-center rounded-lg h-[70px] w-[21rem] md:w-[40rem] border border-gray-400'>
                 <div className='ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/others.jpg")] bg-contain bg-no-repeat'></div>
                 <h2
-                className='font-light text-[18px]'>Others</h2>
+                className='font-light text-[16px] md:text-[text18px]'>Others</h2>
             </div>
         </div>
         </div>
