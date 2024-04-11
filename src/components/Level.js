@@ -3,7 +3,7 @@ import './input.css'
 function Level() {
     return (<div className='text-center'>
         <div className='pb-[20px] '>
- <div><h1 className='text-[25px] mt-20 font-bold mb-7 md:text-[30px]'>What is your math comfort level?</h1>
+ <div><h1 className='text-[25px] mt-7 font-bold mb-7 md:text-[30px]'>What is your math comfort level?</h1>
         <p className='text-gray-400 mb-7 text-[15px]'>Choose the highest level you feel confident in - you can always adjust later.</p>
        </div>
       <div className='flex justify-center flex-wrap items-center  gap-[20px] mt-10'>
