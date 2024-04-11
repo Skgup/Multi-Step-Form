@@ -14,7 +14,7 @@ function Interest() {
                 <div className=' ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/learning.jpg")] bg-contain bg-no-repeat' >
                
                 </div>
-                <h2 className='font-light text-[15px] md:text-[18px]'>Learning specific skills to advance my career</h2>
+                <h2 className='font-light text-[15px] md:text-[text18px]'>Learning specific skills to advance my career</h2>
             </div>
             <div className='flex justify-start items-center rounded-lg h-[70px]  w-[21rem] md:w-[40rem] border border-gray-400'>
                 <div className='ml-[6px] h-[55px] w-[80px] p-[5px] bg-[url("/img/exploring.jpg")] bg-contain bg-no-repeat'></div>
