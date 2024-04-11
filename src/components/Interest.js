@@ -6,7 +6,7 @@ function Interest() {
         <div className='text-center '>
           
             <div classNameName='pb-[20px] '>
-            <h1 className='text-[30px] mt-20 font-bold mb-7'>Which are you most interested in?</h1>
+            <h1 className='text-[30px] mt-7 font-bold mb-7'>Which are you most interested in?</h1>
             <p className='text-gray-400 mb-20'>Choose just one. This help us get youy started(but won't limit your experience).</p>
         </div>
         <div className='flex justify-center items-center gap-[10px] flex-col'>
