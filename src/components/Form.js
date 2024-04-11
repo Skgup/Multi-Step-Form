@@ -59,7 +59,7 @@ const PageDisplay=()=>{
             
     <div>{PageDisplay()}</div>
         <button disabled={page===form.length-1} hidden={page===form.length-1}  onClick={()=> {setPage((currPage)=>currPage+ 1)}
-    } className='text-xl mt-[20px] py-[.6rem] md:py-[.7rem] px-[2rem] md:px-[3rem] bg-black rounded-md text-white' >Continue</button>
+    } className='text-xl mt-[20px] py-[.6rem] md:py-[.7rem] px-[2rem] md:px-[3rem] bg-black rounded-md text-white mb-[70px]' >Continue</button>
         </div>
     )
 }
